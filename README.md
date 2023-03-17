@@ -4,8 +4,8 @@ This is a C++ implementation of the Conway's game of life. I have used SFML as a
 The God's implemented are based on the concept of central limit theorem, where I take the average of uniform random variables to create some kind of Gaussian Distribution.
 
 1. The first God gives life according to a Gaussian centered at mean.
-2. The second God give life according to a Gaussian, and also deleted life according to some other Gaussian distribution.
-3. The third God picks cells according to some Gaussian, and then inverts it states. i.e. alive to dead and dead to alive.
+2. The second God give life according to a Gaussian, and also deleteslife according to some other Gaussian distribution.
+3. The third God picks cells according to some Gaussian, and then inverts it's states. i.e. alive to dead and dead to alive.
 
 ## Compilation and Running
 
